@@ -135,6 +135,7 @@ Reflection:
        }
        return result;
    }
+   https://github.com/ClaudePaola6/PP9/blob/master/frage1.png
    ```
 2. **Function 2:** `evaluate_sequence(int *arr, int len)` in `solutions/algorithm_two.c`:
 
@@ -152,6 +153,7 @@ Reflection:
            default: return false;
        }
    }
+   https://github.com/ClaudePaola6/PP9/blob/master/frage2.png
    ```
 3. For each function, draw a **Mermaid** flowchart capturing loops, branches, and switch logic. Include your Mermaid code in a Markdown file under `solutions/`.
 
